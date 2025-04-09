@@ -28,6 +28,4 @@ print(df.head())
 
 print(df["credits"])
 
-
-
 df.to_csv("output.csv", index=False)
